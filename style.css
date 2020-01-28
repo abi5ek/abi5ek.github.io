@@ -1,12 +1,12 @@
-@import url('https://fonts.googleapis.com/css?family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Maven+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
 
 /* General type rules */
 
 body{
-  font-family: "Work Sans", sans-serif;
-  font-size: 16px;
-  background: #E0E7FF;
+  font-family: "Mukta-Medium", sans-serif;
+  font-size: 20px;
+  background: #CFFFE5;
   color: #51557D;
   line-height: 1.5;
   -webkit-text-size-adjust: 100%;
@@ -21,7 +21,7 @@ a{
 /* Rules for headings */
 
 h1, h2, h3, h4, h5, h6{
-  font-family: "Merriweather", serif;
+  font-family: "Maven Pro", serif;
   color: #1D1F50;
   }
 
@@ -91,7 +91,7 @@ header{
 }
 
 .header-text:hover{
-  border-bottom: 4px solid #1D1F50;
+  border-bottom: 4px solid #1D1F90;
   transition: .25s;
 }
 
